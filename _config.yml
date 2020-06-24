@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: hello@derekrudel.com
 description: This is a blog all about spending nights in Japan.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 theme: minima
